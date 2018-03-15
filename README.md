@@ -10,11 +10,4 @@ Modified...
 
 This is the second changes.
 
-adaslf;
-
-The 3rd changes....dsada
-
-
-d;g;d
-gsdggsd
-gds
+The 3rd changes...
